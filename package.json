@@ -1,0 +1,25 @@
+{
+  "name": "todo-app-with-nodejs-and-express",
+  "version": "1.0.0",
+  "description": "A little todo app running on nodejs, express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loony81/todo-app-with-nodejs-and-express.git"
+  },
+  "author": "Roman Nazarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loony81/todo-app-with-nodejs-and-express/issues"
+  },
+  "homepage": "https://github.com/loony81/todo-app-with-nodejs-and-express#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  }
+}
